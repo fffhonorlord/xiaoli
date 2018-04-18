@@ -8,7 +8,9 @@
 </head>
 <body>
 <?php
+$v1=123;
 echo "2333";
+return $v1;
 ?>    
 
 <script>    
